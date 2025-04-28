@@ -29,12 +29,3 @@ Check out my portfolio website: [shainwaiyan.com](https://www.shainwaiyan.com)
 - [LinkedIn](https://www.linkedin.com/in/shainwaiyan)
 - [Portfolio Website](https://www.shainwaiyan.com)
 
-## GitHub Stats
-![Shain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shain-Wai-Yan&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shain-Wai-Yan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shain-Wai-Yan&theme=radical)](https://git.io/streak-stats)
----
-
-⭐️ From [Shain-Wai-Yan](https://github.com/Shain-Wai-Yan)
