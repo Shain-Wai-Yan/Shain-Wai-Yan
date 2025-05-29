@@ -68,7 +68,7 @@ At 22, I’ve already created complex websites, earned Google and Meta certifica
 
 - 🌐 Portfolio: [shainwaiyan.com](https://shainwaiyan.com)  
 - 🔗 LinkedIn: [linkedin.com/in/shainwaiyan](https://linkedin.com/in/shainwaiyan)  
-- 📫 Email: hello@shainwaiyan.com  
+- 📫 Email: contact@shainwaiyan.com  
 
 ---
 
