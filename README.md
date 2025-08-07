@@ -1,14 +1,14 @@
 # Hello, I’m Shain Wai Yan 👋
 
-**Multilingual Marketing Technologist • Lifelong Learner • No-Code Architect • Self-Taught Fullstack Builder**
+**Full Stack Marketer • Creative Technologist • Digital Architect**
 
 ---
 
 ## 🔹 About Me
 
-I come from a humble background with limited resources, yet my curiosity and relentless drive have pushed me beyond what I once imagined possible. Without a computer science degree, I taught myself to build full-stack web applications and architect complex systems using modern tools — all while pursuing a BA in Literature and earning professional certificates in Digital Marketing and E-Commerce.
+I come from a humble background with limited resources, yet my curiosity and relentless drive have pushed me beyond what I once imagined possible. Without a computer science degree, I taught myself to build full-stack web applications and architect complex systems using modern tools — all while pursuing my education.
 
-My passion lies at the intersection of **marketing, technology, and creativity**. I combine strategic business thinking with hands-on technical skills to create websites, marketing solutions, and tools that deliver real impact.
+My passion lies at the intersection of **marketing, technology, and creativity**. I combine strategic business thinking and marketing with hands-on technical skills to create websites, marketing solutions, and tools that deliver real impact.
 
 ---
 
@@ -41,12 +41,6 @@ Custom microservices running at the edge to handle:
 - Dashboard for sitemap workers and monitoring  
 - Worker-powered fallback for serverless scalability  
 
-### Marketing & Business Plans  
-- Developed strategic marketing plans for small businesses and academic projects  
-- Applied real digital marketing certifications to practical campaigns  
-- Merged business acumen with tech solutions for optimized customer engagement  
-
----
 
 ## 🔹 My Journey
 
